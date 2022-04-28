@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ai-rat-dreams
-- 👀 I’m interested in ... Disco Diffusion & ai art
-- 🌱 I’m currently learning ... Disco Diffusion & ai art
-- 💞️ I’m looking to collaborate on ... Disco Diffusion & ai art
+- 👀 I’m interested in ... Disco Diffusion
+- 🌱 I’m currently learning ... Disco Diffusion
+- 💞️ I’m looking to collaborate on ... Disco Diffusion
 - 📫 How to reach me ... DM @ https://www.reddit.com/user/ai_rat_dreams
 
 <!---
